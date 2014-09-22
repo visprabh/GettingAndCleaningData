@@ -6,7 +6,7 @@
 ## 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 # Set the working directory
-setwd("/Users/nimathur/Desktop/Studies-Live/9.Coursera-DataScience/3.GettingCleaningData/Week3")
+setwd("/Users/visprabh1/Desktop/DataScience/Coursera/")
 
 # Install required packages
 install.packages("data.table")
